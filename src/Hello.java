@@ -3,6 +3,7 @@
  * Date: 08/24/2023
  * 
  * A simple code in Java that states my name and college major
+ * @author ncorey2
  */
 public class Hello {
 
